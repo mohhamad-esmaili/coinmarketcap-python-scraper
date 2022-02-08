@@ -1,7 +1,7 @@
 ## CoinMarketCap Scraper🗿
 
 ### Python Scrapper with [Selenium](https://selenium-python.readthedocs.io/) and [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-this bot scrap all the main pages in [coinmarketcap](https://coinmarketcap.com/) and return CSV file in root, this bot just return all links of social medias not pricebut by little change you can get it just start the bot and chill ;)
+this bot scrap all the main pages in [coinmarketcap](https://coinmarketcap.com/) and return CSV file in root, this bot just return all links of social medias not price but by little change you can get it just start the bot and chill ;)
 
 
 ## Requirement
